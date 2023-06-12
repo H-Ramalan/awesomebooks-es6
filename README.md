@@ -125,13 +125,7 @@ To run tests, run the following command:
 
 - GitHub: (https://github.com/H-Ramalan)
 - Twitter: (https://twitter.com/@hamza_ramalan)
-- LinkedIn: (https://www.linkedin.com/in/hamza-r-3b3b6a/)
-
-👤 **Zerihun Abune**
-
-- GitHub: (https://github.com/znation2010)
-- Twitter: (https://twitter.com/zerihunabune)
-- LinkedIn: (https://linkedin.com/in/zerihun-abune-4bb11b196/)
+- LinkedIn: (http://linkedin.com/in/hamza-ramalan)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

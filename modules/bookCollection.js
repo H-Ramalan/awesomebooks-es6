@@ -1,12 +1,12 @@
-// eslint-disable-next-line no-unused-vars
 export default class BookCollection {
   constructor() {
     this.books = JSON.parse(localStorage.getItem('books')) || [];
     this.bookList = document.getElementById('bookList');
     this.bookForm = document.getElementById('bookForm');
+  }
 
+  init() {
     this.bookForm.addEventListener('submit', this.handleFormSubmit.bind(this));
-
     this.displayBookList();
   }
 

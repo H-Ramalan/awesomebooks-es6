@@ -2,10 +2,6 @@ const bookList = document.querySelector('.all-books');
 const addBookForm = document.querySelector('.add-book-box');
 const contact = document.querySelector('.contact-me-box');
 
-// const list = document.querySelector('.list');
-// const addBookLink = document.querySelector('.add-new');
-// const contactLink = document.querySelector('.contact');
-
 export const booksListPage = (e) => {
   e.preventDefault();
   bookList.classList.remove('hidden');
