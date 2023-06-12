@@ -1,5 +1,5 @@
 // eslint-disable-next-line no-unused-vars
-export class BookCollection {
+export default class BookCollection {
   constructor() {
     this.books = JSON.parse(localStorage.getItem('books')) || [];
     this.bookList = document.getElementById('bookList');
